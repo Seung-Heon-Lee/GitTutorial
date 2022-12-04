@@ -14,3 +14,9 @@ def divide_new (a, b):
 
 def get_median (a, b):
     return (a+b)/2
+
+def get_abs (a):
+    if a>0:
+        return a
+    else:
+        return -a
