@@ -14,4 +14,7 @@ def divide_new (a, b):
 
 def power (a, b):
     return a ** b
+
+def say_hello():
+    print("Hello")
     
