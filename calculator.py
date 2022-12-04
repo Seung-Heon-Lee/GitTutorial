@@ -11,8 +11,3 @@ def multiply (a,b):
 
 def divide_new (a, b):
     retuen a/b
-
-def power (a, b):
-    return a ** b
-
-    
